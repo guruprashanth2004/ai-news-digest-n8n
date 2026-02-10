@@ -36,8 +36,8 @@ Schedule Trigger
 
 ## 📸 Screenshot
 
-(Add your n8n workflow screenshot here)
-
+![Workflow](workflow.png)
+![Result](result)
 ---
 
 ## 🧑‍💻 What I Learned
